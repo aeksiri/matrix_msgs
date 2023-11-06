@@ -165,6 +165,7 @@ add_action_files(FILES
   IOOperation.action
   ARTrackOperation.action 
   ARDockingOperationMultiMethods.action
+  SideWall.action
 )
 
 generate_messages(
